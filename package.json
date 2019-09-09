@@ -1,0 +1,36 @@
+{
+  "name": "learning-web-dev",
+  "version": "0.0.1",
+  "description": "Goal oriented Web Development roadmap that focuses on visible results that you can quickly share with your friends.",
+  "private": true,
+  "scripts": {
+    "book:install": "node_modules/.bin/gitbook install",
+    "book:serve": "node_modules/.bin/gitbook serve . docs__dev",
+    "book:build": "node_modules/.bin/gitbook build . docs",
+    "book": "npm run book:install && npm run book:serve",
+    "start": "npm run book",
+    "--- // PUBLISH TO: forrestjs.github.io // ---": "",
+    "release:prep": "rm -rf __repo__ && mkdir -p __repo__",
+    "release:init": "cd __repo__ && git init && git remote add origin git@github.com:forrestjs/forrestjs.github.io.git && git fetch && git checkout master",
+    "release:copy": "cp -rf __repo__/.git __book__",
+    "release:copy:clean": "rm -f __book__/yarn.lock",
+    "release:push": "cd __book__ && git add . && git commit -m \"docs\" && git push -u origin master",
+    "release:clean": "rm -rf __repo__ && rm -rf __book__",
+    "release": "npm run release:prep && npm run release:init && npm run book:install && npm run book:build && npm run release:copy && npm run release:copy:clean && npm run release:push && npm run release:clean",
+    "deploy": "npm run release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forrestjs/gitbook.git"
+  },
+  "author": "Marco Pegoraro",
+  "license": "MIT",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-add-js-css": "^0.0.1",
+    "gitbook-plugin-code": "^0.1.0",
+    "gitbook-plugin-collapsible-menu": "^1.0.3",
+    "gitbook-plugin-custom-favicon": "^0.0.4",
+    "gitbook-plugin-insert-logo": "^0.1.5"
+  }
+}

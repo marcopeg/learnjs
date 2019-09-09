@@ -1,0 +1,20 @@
+{
+    "plugins": [
+        "add-js-css",
+        "custom-favicon",
+        "insert-logo",
+        "code",
+        "collapsible-menu"
+    ],
+    "pluginsConfig": {
+        "favicon": "/assets/images/forrestjs.ico",
+        "insert-logo": {
+            "url": "/assets/images/forrestjs.png"
+        },
+        "add-js-css": {
+            "css": [
+                "./assets/style.css"
+            ]
+        }
+    }
+}

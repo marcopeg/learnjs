@@ -1,74 +1,51 @@
-# learning-webdev
-Goal oriented Web Development roadmap that focuses on visible results that you can quickly share with your friends.
+# Learning WebDev
 
-First step is on CodePen or similar web based IDE, so the student doesn’t need to deal with local setup.
+This is a roadmap of **progressively interesting exercises** that guide you
+through the unique experience of becoming a Web Developer.
 
-- HTML
-    - [Textual hello world](./codepen/html/hello-world.md)
-    - Use different tags
-    - Id / class attributes
-- CSS
-    - Use identifiers
-    - Basic properties for font and colors
-    - Pseudo classes for hover and similar stuff
-- Javascript
-    - (Make sure they see how to disable “auto run” in CodePen so they run code when they really want to)
-    - Use functions - alert
-    - Use variables - prompt > variable > alert prompted text
-    - Use conditionals - prompt > variable > if (condition) alert “OK” else alert “NO”
-    - Create a function: function with alert, then call the function
-    - Events handlers
-        - Click on button > alert “Hello”
-        - Click on button > change class to item
-        - input on change > update text in paragraph (or do animation with transitions on translate3D)
-        - button on click > read from text > alert text > clear out input content > keep focus on input
-    - DOM Handling
-        - Click on button > create new “p” with progressive number inside (kept in the global scope), append newly created p to the body
-        - Starting with 2/3 buttons on the page, when click, remove the button from the page (use IDs on each button, you may create many functions)
-    - Arrays & Loops
-        - Create an array of names, for each item, alert the item (forEach)
-        - Create an array of names, for each item, create a P with the text and append it to the body (forEach)
-        - Same exercise but first transform names into elements (map) then append (forEach)
-        - Same as before but append only names that start with letter “a” (filter, map, forEach)
-    - Single way rendering
-        - Given an array and a pointer to a list UL (like the id), replace the contents in the list with LI mapped out of the array
-        - With the previous code, add a text field and a button “add”. On click, read the text from the input, add it to the array and call the rendering function again
-        - With the previous code, when click on an item, remove it from the array, call the render again
+> My personal suggestion is that you start from the basics and move forward
+> at your own peace.  
+> **You set your own level of efforts.**
 
+### 👉 Progress by User Stories
 
+**Each exercise comes with a [user story][1]** that speaks a language that you
+will find in your daily routine at the office.
 
-Second step is to get closer to a working setup with a real computer.
-Mac or Windows
+Make an effort to deeply consider all the parts of the user story, try to
+understand it and put yourself in the shoes of the virtual client.
 
-- bash (Mac or Win)
-    - Move around file system
-    - Create directory
-    - Create file
-    - Read file (cat)
-    - Delete files and directories
-    - Optional - edit files with vim or similar
-- Setup for Coding
-    - Editor (VSCode?)
-    - NodeJS with NVM >> consider to this entirely via Docker ???
-    - NPM / Yarn
-- Use global packages
-    - Run HTML “hello world” via simple node server
-    - Run HTML “hello world” via ParcelJs
-- Setup for Collaboration
-    - Create GitHub Account
-    - Create an empty repo and use it locally (learn what a repo is, commit, push/pull)
-    - Exclude files from repository (.gitignore)
-    - Write all the exercises done in CodePen as subfolders of the repository
+> A good part of the developer's job is to understand requirements!
 
-Personal static website - using ParcelJS
+### 🤓 Learn with the External Resources
 
-- Create a simple CV with HTML and CSS. Add your image into it. Publish it as GitHub page using the “username.github.io” repository. (Organise the codebase, build parcel. Push source to one repo and push the build to the other)
-- Split your cv in multiple pages and link them with “A” tag.
-- Rework your CV using Twitter Bootstrap CSS framework as much as you can.
-- Integrate Google Analytics into your website
-- Integrate Disqus into your website
-- Embed some of the CodePen you did as demonstration of what you can do
+You will also find a list of external resources that may help you getting
+through the exercise.
 
+Internet is full of tutorials, guides and videos. We are working hard to
+curate an index of relevant resources for every lesson.
 
+**And you are welcome to contribute:** whenever you have new ideas for improving 
+the list of resources, feel free to create a new [Pull Request][2], 
+or [file an issue][3] in [our repo][4]!
 
+### ✅ Check out the Proposed Solution
 
+Most of the exercises will also **include a proposed solution** that may be an
+embedded runnable (stuff that you can play with right from your browser), or
+a link to external GitHub repos or articles.
+
+I suggest you put your best effort in **solving the exercise by yourself** before
+you look into that solution! It's even better if you **team up** with one or two
+friends and move through this roadmap together.
+
+---
+
+I wish you the best of luck!  
+_[Marco][5]_
+
+[1]: https://en.wikipedia.org/wiki/User_story "User Story on Wikipedia"
+[2]: https://yangsu.github.io/pull-request-tutorial/ "How to create a Pull Request"
+[3]: https://help.github.com/en/articles/creating-an-issue "How to file an Issue"
+[4]: https://github.com/marcopeg/learning-webdev "Learning WebDev on GitHub"
+[5]: https://marcopeg.com "Read crazy articles on my personal pages"
