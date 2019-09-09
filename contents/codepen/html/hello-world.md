@@ -21,3 +21,9 @@ I should be able to read a welcoming message on a web page
   See the Pen <a href='https://codepen.io/marcopeg/pen/qBWxQLB/'>HTML Hello World</a> by Marco Pegoraro
   (<a href='https://codepen.io/marcopeg'>@marcopeg</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
+
+Here is a **nice step by step tutorial** that goes through the hello world, and then add also
+some stuff that you will use in the next lesson!
+
+{% youtube embed="O-vslGuGRg8" %}{% endyoutube %}
+

@@ -12,7 +12,9 @@ I should be able to create groups of one or more paragraphs
 
 ## 🤓 Resources:
 
-[[ TO BE COMPLETED... ]]
+{% youtube embed="9UNmumTYuq8" %}{% endyoutube %}
+
+- [The difference between "class" and "id"][1]
 
 ## ✅ Proposed Solution:
 
@@ -23,3 +25,4 @@ I should be able to create groups of one or more paragraphs
   (<a href='https://codepen.io/marcopeg'>@marcopeg</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
+[1]: https://css-tricks.com/the-difference-between-id-and-class/

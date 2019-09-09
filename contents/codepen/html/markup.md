@@ -13,7 +13,11 @@ And this message should be nicely formatted into titles,
 
 ## 🤓 Resources:
 
-[[ TO BE COMPLETED... ]]
+This video might be a little old, but they explain things in a simple way.
+
+{% youtube embed="CKlh1lwe2rY" %}{% endyoutube %}
+
+- [HTML on Wikipedia][1] - interesting for the history part
 
 ## ✅ Proposed Solution:
 
@@ -23,3 +27,10 @@ And this message should be nicely formatted into titles,
   See the Pen <a href='https://codepen.io/marcopeg/pen/rNBJoPx/'>HTML Hello World</a> by Marco Pegoraro
   (<a href='https://codepen.io/marcopeg'>@marcopeg</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
+
+Here is a **nice step by step tutorial** starts from the basics of HTML and gets slowly into
+using different tags.
+
+{% youtube embed="O-vslGuGRg8" %}{% endyoutube %}
+
+[1]: https://en.wikipedia.org/wiki/HTML "HTML"
