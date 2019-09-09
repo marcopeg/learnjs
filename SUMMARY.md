@@ -10,3 +10,5 @@
 - [HTML » Hello World](./contents/codepen/html/hello-world.md)
 - [HTML » Markup](./contents/codepen/html/markup.md)
 - [HTML » Attributes](./contents/codepen/html/attributes.md)
+- [HTML » Embed Images](./contents/codepen/html/images.md)
+- [HTML » Link to Pages](./contents/codepen/html/links.md)
