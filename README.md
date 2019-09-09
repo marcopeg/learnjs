@@ -4,7 +4,7 @@ This is a roadmap of **progressively interesting exercises** that guide you
 through the unique experience of becoming a Web Developer.
 
 > My personal suggestion is that you start from the basics and move forward
-> at your own peace.  
+> at your own pace.  
 > **You set your own level of efforts.**
 
 ### 👉 Progress by User Stories
