@@ -7,9 +7,10 @@
     "book:install": "node_modules/.bin/gitbook install",
     "book:serve": "node_modules/.bin/gitbook serve . docs__dev",
     "book:build": "node_modules/.bin/gitbook build . docs",
-    "book": "npm run book:install && npm run book:serve",
-    "clean": "rm -rf docs && rm -rf docs__dev && rm -rf node_modules",
-    "start": "npm run book"
+    "clean": "rm -rf docs && rm -rf docs__dev",
+    "commit": "git add . && git commit -m \"publish\" && git push",
+    "release": "npm run clean && yarn && npm run book:install && npm run book:build && npm run commit",
+    "start": "npm run clean && yarn && npm run book:install && npm run book:serve"
   },
   "repository": {
     "type": "git",

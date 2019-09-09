@@ -50,6 +50,15 @@ A nice way to use the message board is to share the solutions to problems you
 have solved with Internet. Or just share your exercises by linking your
 repos or your online IDE pages.
 
+### 🙌 Collaborate
+
+Did you know that all the sources for this website are [publicly available on GitHub?][4]
+
+If you find any typos, errors, outdated resources; or if you have propositions for
+a new lesson, more resources and better examples...
+
+Then please take the time to [**fork our repo** and **submit a Pull Request**][2]!
+
 ---
 
 I wish you the best of luck!  
