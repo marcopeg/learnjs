@@ -7,13 +7,13 @@
         "collapsible-menu"
     ],
     "pluginsConfig": {
-        "favicon": "/assets/images/forrestjs.ico",
+        "favicon": "https://marcopeg.com/learning-webdev/assets/images/forrestjs.ico",
         "insert-logo": {
-            "url": "/assets/images/forrestjs.png"
+            "url": "https://marcopeg.com/learning-webdev/assets/images/forrestjs.png"
         },
         "add-js-css": {
             "css": [
-                "./assets/style.css"
+                "assets/style.css"
             ]
         }
     }
