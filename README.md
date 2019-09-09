@@ -39,6 +39,17 @@ I suggest you put your best effort in **solving the exercise by yourself** befor
 you look into that solution! It's even better if you **team up** with one or two
 friends and move through this roadmap together.
 
+### 💬 Comment and Engage
+
+Each page of this website hosts a **live message board**.
+
+Join in when you have ideas to share or questions that can't be answered by
+Google or Stackoverflow (always look there first!).
+
+A nice way to use the message board is to share the solutions to problems you
+have solved with Internet. Or just share your exercises by linking your
+repos or your online IDE pages.
+
 ---
 
 I wish you the best of luck!  
