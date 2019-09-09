@@ -4,7 +4,8 @@
         "custom-favicon",
         "insert-logo",
         "code",
-        "collapsible-menu"
+        "collapsible-menu",
+        "disqus-legacy"
     ],
     "pluginsConfig": {
         "favicon": "https://marcopeg.com/learning-webdev/assets/images/forrestjs.ico",
@@ -14,6 +15,14 @@
         "add-js-css": {
             "css": [
                 "assets/style.css"
+            ]
+        },
+        "disqus-legacy": {
+            "shortname": "learning-webdev",
+            "wrapper": "<h2>💬 Comments & New Ideas:</h2>{{disqus}}",
+            "exclude": [
+                "README.md",
+                "contents/codepen/README.md"
             ]
         }
     }
