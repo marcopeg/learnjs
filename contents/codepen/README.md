@@ -17,4 +17,12 @@ the whole infrastructure and computer setup**.
 It's a shortcut that let you dig right into Web Development pulp. No boring
 steps, no platform-dependant struggle (they will come later on anyway...)
 
+## Let's Get Started
+
+Here is a short video that will introduce you to CodePen.io, your goal is to become
+comfortable with the basic editor options and with creating and sharing a pen
+with your friends.
+
+{% youtube embed="G9J-KcqcQYY" %}{% endyoutube %}
+
 [1]: https://codepen.io "Run HTML/CSS/Javascript online and share your work"

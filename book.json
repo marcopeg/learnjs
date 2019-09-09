@@ -5,7 +5,8 @@
         "insert-logo",
         "code",
         "collapsible-menu",
-        "disqus-legacy"
+        "disqus-legacy",
+        "youtube-placeholder"
     ],
     "pluginsConfig": {
         "favicon": "https://marcopeg.com/learning-webdev/assets/images/forrestjs.ico",
