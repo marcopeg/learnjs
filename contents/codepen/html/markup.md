@@ -13,7 +13,7 @@ And this message should be nicely formatted into titles,
 
 ## 🤓 Resources:
 
-[[ TODO ]]
+[[ TO BE COMPLETED... ]]
 
 ## ✅ Proposed Solution:
 

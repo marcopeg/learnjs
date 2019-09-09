@@ -11,7 +11,7 @@ I should be able to read a welcoming message on a web page
 
 ## 🤓 Resources:
 
-[[ TODO ]]
+[[ TO BE COMPLETED... ]]
 
 ## ✅ Proposed Solution:
 

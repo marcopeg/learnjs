@@ -9,4 +9,4 @@
 - [» Introduction](./contents/codepen/README.md)
 - [HTML » Hello World](./contents/codepen/html/hello-world.md)
 - [HTML » Markup](./contents/codepen/html/markup.md)
-- HTML » Attributes
+- [HTML » Attributes](./contents/codepen/html/attributes.md)
