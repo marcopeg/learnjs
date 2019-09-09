@@ -5,9 +5,9 @@
   "private": true,
   "scripts": {
     "book:install": "node_modules/.bin/gitbook install",
-    "book:serve": "node_modules/.bin/gitbook serve . docs__dev",
+    "book:serve": "node_modules/.bin/gitbook serve . docs",
     "book:build": "node_modules/.bin/gitbook build . docs",
-    "clean": "rm -rf docs && rm -rf docs__dev",
+    "clean": "rm -rf docs",
     "commit": "git add . && git commit -m \"publish\" && git push",
     "release": "npm run clean && yarn && npm run book:install && npm run book:build && npm run commit",
     "start": "npm run clean && yarn && npm run book:install && npm run book:serve"
