@@ -13,16 +13,28 @@ I should be able to create groups of one or more paragraphs using HTML attribute
 You can try things out directly on this pen:  
 https://codepen.io/marcopeg/pen/bGbLzGy
 
-## 🤓 Resources:
+---
 
-{% youtube embed="9UNmumTYuq8" %}{% endyoutube %}
 
-- [The difference between "class" and "id"][1]
 
 ## ✅ Proposed Solution:
 
 > Don't run this unless you gave a very good effort to solve it yourself!
 
 {% codepen id="ExYEmmm", defaultTab="css,result" %}{% endcodepen %}
+
+---
+
+
+
+## 🤓 Resources:
+
+{% youtube embed="9UNmumTYuq8" %}{% endyoutube %}
+
+- [The difference between "class" and "id"][1]
+
+---
+
+
 
 [1]: https://css-tricks.com/the-difference-between-id-and-class/

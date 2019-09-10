@@ -13,14 +13,26 @@ I should make it appear "blue"
 You can try things out directly on this pen:  
 https://codepen.io/marcopeg/pen/JjPLOEe
 
-## 🤓 Resources:
+---
 
-[[ TO BE DONE ]]
+
 
 ## ✅ Proposed Solution:
 
 > Don't run this unless you gave a very good effort to solve it yourself!
 
 {% codepen id="QWLmOpp", defaultTab="css,result" %}{% endcodepen %}
+
+
+---
+
+## 🤓 Resources:
+
+[[ TO BE DONE ]]
+
+---
+
+
+
 
 [1]: https://css-tricks.com/the-difference-between-id-and-class/

@@ -13,13 +13,26 @@ I should be able to add some basic styles
 You can try things out directly on this pen:  
 https://codepen.io/marcopeg/pen/yLBKbYy
 
-## 🤓 Resources:
+---
 
-[[ TO BE COMPLETED ]]
+
+
 
 ## ✅ Proposed Solution:
 
 > Don't run this unless you gave a very good effort to solve it yourself!
 
 {% codepen id="KKPomaw", defaultTab="css,result" %}{% endcodepen %}
+
+---
+
+
+
+
+## 🤓 Resources:
+
+[[ TO BE COMPLETED ]]
+
+---
+
 

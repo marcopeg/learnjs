@@ -12,6 +12,20 @@ I should be able to read a welcoming message on the result panel
 You can try things out directly on this pen:  
 https://codepen.io/marcopeg/pen/YzKaQyb
 
+---
+
+
+
+## ✅ Proposed Solution:
+
+> Don't run this unless you gave a very good effort to solve it yourself!
+
+{% codepen id="qBWxQLB", defaultTab="html,result" %}{% endcodepen %}
+
+---
+
+
+
 
 ## 🤓 Resources:
 
@@ -20,9 +34,8 @@ some stuff that you will use in the next lesson!
 
 {% youtube embed="O-vslGuGRg8" %}{% endyoutube %}
 
-## ✅ Proposed Solution:
+---
 
-> Don't run this unless you gave a very good effort to solve it yourself!
 
-{% codepen id="qBWxQLB", defaultTab="html,result" %}{% endcodepen %}
+
 
