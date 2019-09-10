@@ -23,12 +23,12 @@
     "gitbook-cli": "^2.3.2",
     "gitbook-plugin-add-js-css": "^0.0.1",
     "gitbook-plugin-code": "^0.1.0",
+    "gitbook-plugin-codepen-placeholder": "^1.3.0",
     "gitbook-plugin-collapsible-menu": "^1.0.3",
     "gitbook-plugin-custom-favicon": "^0.0.4",
-    "gitbook-plugin-disqus-legacy": "^1.1.0",
+    "gitbook-plugin-disqus-legacy": "^1.2.3",
     "gitbook-plugin-insert-logo": "^0.1.5",
-    "gitbook-plugin-youtube": "^1.1.0",
-    "gitbook-plugin-youtube-placeholder": "^1.0.0",
+    "gitbook-plugin-youtube-placeholder": "^1.2.3",
     "hoek": "^4.2.1",
     "tunnel-agent": "^0.6.0"
   }

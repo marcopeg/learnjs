@@ -6,7 +6,8 @@
         "code",
         "collapsible-menu",
         "disqus-legacy",
-        "youtube-placeholder"
+        "youtube-placeholder",
+        "codepen-placeholder"
     ],
     "pluginsConfig": {
         "favicon": "https://marcopeg.com/learning-webdev/assets/images/forrestjs.ico",
@@ -23,8 +24,17 @@
             "wrapper": "<h2>💬 Comments & New Ideas:</h2>{{disqus}}",
             "exclude": [
                 "README.md",
-                "contents/codepen/README.md"
+                "contents/codepen/README.md",
+                "contents/codepen/html/README.md",
+                "contents/codepen/css/README.md",
+                "contents/codepen/js/README.md"
             ]
+        },
+        "codepen-placeholder": {
+            "account": "marcopeg",
+            "username": "Marco Pegoraro",
+            "width": "100%",
+            "height": "300px"
         }
     }
 }

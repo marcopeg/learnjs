@@ -8,14 +8,19 @@ and relatives.
 > Why?  
 > **Because you should be freakin' proud of each step you take 😎**
 
-Throughout this section you will use [CodePen.io][1]. Follow this link, play around,
-create an account and learn how this platform works.
+Throughout this section you will use [CodePen.io][1].  
+Follow [this link][1], play around, create an account and learn how 
+this platform works.
+
+It's as simple as clicking on "start coding":
+
+![Start Coding on CodePen](./codepen-start-coding.png)
 
 The **main benefit** is that you will be able to write code **without worry with
 the whole infrastructure and computer setup**.
 
-It's a shortcut that let you dig right into Web Development pulp. No boring
-steps, no platform-dependant struggle (they will come later on anyway...)
+It's a shortcut that let you dig right into the Web Development pulp.  
+No boring setup steps, no platform-dependant struggle (they will come later on anyway...)
 
 ## Let's Get Started
 

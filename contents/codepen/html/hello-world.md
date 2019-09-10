@@ -1,29 +1,28 @@
 # HTML » Hello World
 [Learning WebDev](../../../README.md) » [CodePen.io](../README.md)
 
-## 👉 Requirement:
+## 👉 User Story:
 
 ```
 As a user
 Given a public pen url
-I should be able to read a welcoming message on a web page
+I should be able to read a welcoming message on the result panel
 ```
 
+You can try things out directly on this pen:  
+https://codepen.io/marcopeg/pen/YzKaQyb
+
+
 ## 🤓 Resources:
-
-[[ TO BE COMPLETED... ]]
-
-## ✅ Proposed Solution:
-
-> Don't run this unless you gave a very good effort to solve it yourself!
-
-<iframe height="265" style="width: 100%;" scrolling="no" title="HTML Hello World" src="//codepen.io/marcopeg/embed/preview/qBWxQLB/?height=265&theme-id=0&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/marcopeg/pen/qBWxQLB/'>HTML Hello World</a> by Marco Pegoraro
-  (<a href='https://codepen.io/marcopeg'>@marcopeg</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
 
 Here is a **nice step by step tutorial** that goes through the hello world, and then add also
 some stuff that you will use in the next lesson!
 
 {% youtube embed="O-vslGuGRg8" %}{% endyoutube %}
+
+## ✅ Proposed Solution:
+
+> Don't run this unless you gave a very good effort to solve it yourself!
+
+{% codepen id="qBWxQLB", defaultTab="html,result" %}{% endcodepen %}
 
