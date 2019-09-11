@@ -7,7 +7,9 @@
     "collapsible-menu",
     "disqus-legacy",
     "youtube-placeholder",
-    "codepen-placeholder"
+    "codepen-placeholder",
+    "redirect",
+    "redirect-https"
   ],
   "pluginsConfig": {
     "favicon": "https://marcopeg.com/learnjs/assets/images/forrestjs.ico",
@@ -15,7 +17,9 @@
       "url": "https://marcopeg.com/learnjs/assets/images/forrestjs.png"
     },
     "add-js-css": {
-      "css": ["assets/style.css"]
+      "css": [
+        "assets/style.css"
+      ]
     },
     "disqus-legacy": {
       "shortname": "learnjs",
