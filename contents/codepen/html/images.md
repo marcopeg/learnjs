@@ -1,11 +1,12 @@
 # HTML » Images
+
 [Learning WebDev](../../../README.md) » [CodePen.io](../README.md)
 
 ## 👉 User Story:
 
 ```
 As a user
-Given a public pen url
+Given a CodePen url (see below)
   and an image URL
 I should be able to see the image on the result panel
 ```
@@ -21,8 +22,6 @@ https://codepen.io/marcopeg/pen/LYPdLZq
 
 ---
 
-
-
 ## ✅ Proposed Solution:
 
 > Don't run this unless you gave a very good effort to solve it yourself!
@@ -30,8 +29,6 @@ https://codepen.io/marcopeg/pen/LYPdLZq
 {% codepen id="OJLvLRq", defaultTab="html,result" %}{% endcodepen %}
 
 ---
-
-
 
 ## 🤓 Resources:
 
@@ -41,11 +38,9 @@ This video might be a little old, but they explain things in a simple way:
 
 - [Read IMG tag reference on MND »][1]
 - [What is a URL?][2]
-- [What are the different parts of a URL?][3]
+  - [What are the different parts of a URL?][3]
 
 ---
-
-
 
 [1]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
 [2]: https://www.quora.com/What-does-URL-mean

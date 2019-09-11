@@ -1,11 +1,12 @@
 # HTML » Hello World
+
 [Learning WebDev](../../../README.md) » [CodePen.io](../README.md)
 
 ## 👉 User Story:
 
 ```
 As a user
-Given a public pen url
+Given a CodePen url (see below)
 I should be able to read a welcoming message on the result panel
 ```
 
@@ -13,8 +14,6 @@ You can try things out directly on this pen:
 https://codepen.io/marcopeg/pen/YzKaQyb
 
 ---
-
-
 
 ## ✅ Proposed Solution:
 
@@ -24,9 +23,6 @@ https://codepen.io/marcopeg/pen/YzKaQyb
 
 ---
 
-
-
-
 ## 🤓 Resources:
 
 Here is a **nice step by step tutorial** that goes through the hello world, and then add also
@@ -35,7 +31,3 @@ some stuff that you will use in the next lesson!
 {% youtube embed="O-vslGuGRg8" %}{% endyoutube %}
 
 ---
-
-
-
-

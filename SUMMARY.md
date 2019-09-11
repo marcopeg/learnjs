@@ -17,3 +17,4 @@
     - [Style Attributes](./contents/codepen/css/attributes.md)
     - [Dynamic Styles](./contents/codepen/css/pseudoclasses.md)
 - [» JS](./contents/codepen/js/README.md)
+    - [Use Functions](./contents/codepen/js/use-functions.md)

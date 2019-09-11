@@ -1,40 +1,38 @@
 {
-    "plugins": [
-        "add-js-css",
-        "custom-favicon",
-        "insert-logo",
-        "code",
-        "collapsible-menu",
-        "disqus-legacy",
-        "youtube-placeholder",
-        "codepen-placeholder"
-    ],
-    "pluginsConfig": {
-        "favicon": "https://marcopeg.com/learning-webdev/assets/images/forrestjs.ico",
-        "insert-logo": {
-            "url": "https://marcopeg.com/learning-webdev/assets/images/forrestjs.png"
-        },
-        "add-js-css": {
-            "css": [
-                "assets/style.css"
-            ]
-        },
-        "disqus-legacy": {
-            "shortname": "learning-webdev",
-            "wrapper": "<h2>💬 Comments & New Ideas:</h2>{{disqus}}",
-            "exclude": [
-                "README.md",
-                "contents/codepen/README.md",
-                "contents/codepen/html/README.md",
-                "contents/codepen/css/README.md",
-                "contents/codepen/js/README.md"
-            ]
-        },
-        "codepen-placeholder": {
-            "account": "marcopeg",
-            "username": "Marco Pegoraro",
-            "width": "100%",
-            "height": "300px"
-        }
+  "plugins": [
+    "add-js-css",
+    "custom-favicon",
+    "insert-logo",
+    "code",
+    "collapsible-menu",
+    "disqus-legacy",
+    "youtube-placeholder",
+    "codepen-placeholder"
+  ],
+  "pluginsConfig": {
+    "favicon": "https://marcopeg.com/learnjs/assets/images/forrestjs.ico",
+    "insert-logo": {
+      "url": "https://marcopeg.com/learnjs/assets/images/forrestjs.png"
+    },
+    "add-js-css": {
+      "css": ["assets/style.css"]
+    },
+    "disqus-legacy": {
+      "shortname": "learnjs",
+      "wrapper": "<h2>💬 Comments & New Ideas:</h2>{{disqus}}",
+      "exclude": [
+        "README.md",
+        "contents/codepen/README.md",
+        "contents/codepen/html/README.md",
+        "contents/codepen/css/README.md",
+        "contents/codepen/js/README.md"
+      ]
+    },
+    "codepen-placeholder": {
+      "account": "marcopeg",
+      "username": "Marco Pegoraro",
+      "width": "100%",
+      "height": "300px"
     }
+  }
 }

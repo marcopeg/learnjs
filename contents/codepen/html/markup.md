@@ -1,11 +1,12 @@
 # HTML » Markup
+
 [Learning WebDev](../../../README.md) » [CodePen.io](../README.md)
 
 ## 👉 User Story:
 
 ```
 As a user
-Given a public pen url
+Given a CodePen url (see below)
 I should be able to read a welcoming message on the result panel
 And this message should be nicely formatted into titles,
     paragraphs, maybe lists of key points
@@ -35,5 +36,3 @@ This video might be a little old, but they explain things in a simple way.
 ---
 
 [1]: https://en.wikipedia.org/wiki/HTML "HTML"
-
-
