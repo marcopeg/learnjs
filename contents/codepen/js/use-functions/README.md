@@ -1,5 +1,5 @@
 # Javascript » Use Functions
-[Learning WebDev](../../../ README.md) »[CodePen.io](../README.md)
+[LearnJS](../../../ README.md) »[CodePen.io](../README.md)
 
 ## 👉 User Story:
 
@@ -9,7 +9,7 @@ Given a CodePen url (see below)
 I should be able to use some basic browser's built in functions
 ```
 
-You can try things out directly on this pen:
+You can try things out directly on this pen:  
 https://codepen.io/marcopeg/pen/jONzwqB?editors=1010
 
 ---
@@ -27,6 +27,8 @@ https://codepen.io/marcopeg/pen/jONzwqB?editors=1010
 This video might be a little old, but they explain things in a simple way.
 
 - [MDN: document.write()](https://developer.mozilla.org/en-US/docs/Web/API/Document/write)
-- [MDN: window.alert()][https://developer.mozilla.org/en-US/docs/Web/API/Window/alert]
+- [MDN: window.alert()](https://developer.mozilla.org/en-US/docs/Web/API/Window/alert)
+- [MDN: window.confirm()](https://developer.mozilla.org/en-US/docs/Web/API/Window/confirm)
+- [MDN: window.prompt()](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)
 
 ---

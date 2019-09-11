@@ -1,5 +1,5 @@
 # Introduction to CodePen.io
-[Learning WebDev](../../README.md) » [CodePen.io](./README.md)
+[LearnJS](../../README.md) » [CodePen.io](./README.md)
 
 In this first section of the roadmap, you will get your hands right on some
 programming tasks, and you will also be able to show your work to friends

@@ -1,6 +1,6 @@
 # HTML
 
-[Learning WebDev](../../../README.md) » [CodePen.io](../README.md)
+[LearnJS](../../../README.md) » [CodePen.io](../README.md)
 
 In this first section you will move your first steps with _HTML_, the
 language of the web.

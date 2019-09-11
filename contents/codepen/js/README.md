@@ -1,4 +1,4 @@
 # Javascript
-[Learning WebDev](../../../README.md) » [CodePen.io](../README.md)
+[LearnJS](../../../README.md) » [CodePen.io](../README.md)
 
 !REDIRECT "./use-functions/"
