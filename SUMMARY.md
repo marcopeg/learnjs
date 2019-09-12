@@ -19,4 +19,5 @@
     - [Dynamic Styles](./contents/codepen/css/pseudoclasses/README.md)
 - [» JS](./contents/codepen/js/README.md)
     - [Use Functions](./contents/codepen/js/use-functions/README.md)
+    - [Use Variables](./contents/codepen/js/use-variables/README.md)
 

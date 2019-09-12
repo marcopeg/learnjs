@@ -24,7 +24,7 @@ https://codepen.io/marcopeg/pen/jONzwqB?editors=1010
 
 ## 🤓 Resources:
 
-This video might be a little old, but they explain things in a simple way.
+{% youtube embed="ZmRYan3lAIo" %}{% endyoutube %}
 
 - [MDN: document.write()](https://developer.mozilla.org/en-US/docs/Web/API/Document/write)
 - [MDN: window.alert()](https://developer.mozilla.org/en-US/docs/Web/API/Window/alert)

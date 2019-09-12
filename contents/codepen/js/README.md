@@ -32,7 +32,12 @@ From now on, it may take you a while to write the correct code that you actually
 execute, and the "auto run" feature that we used so far in our CodePens may cause you pain.
 
 **IMPORTANT:** Make sure you go through this tutorial and learn how to disable it:  
-https://blog.codepen.io/documentation/editor/auto-updating-previews/
+👉 https://blog.codepen.io/documentation/editor/auto-updating-previews/
+
+You can also re-run this video, it takes a quite deep demonstration of CodePen and you
+may find cool tricks in it:
+
+{% youtube embed="qlodxDv5yqc" %}{% endyoutube %}
 
 [1]: ../css/pseudoclasses.md
 [2]: https://www.quora.com/Is-CSS-or-HTML-a-programming-language
