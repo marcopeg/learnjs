@@ -1,4 +1,4 @@
-# LearnJS
+# LearnJS - Web Development Roadmap
 
 This is a roadmap of **progressively interesting exercises** that guide you
 through the unique experience of becoming a Web Developer.

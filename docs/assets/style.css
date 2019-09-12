@@ -14,7 +14,9 @@
     border-bottom: 3px solid #DDD;
 }
 
-.markdown-section h1#learning-webdev+p {
+/* Opt out pages without bread crumb trail */
+.markdown-section h1#learnjs---web-development-roadmap + p,
+.markdown-section h1#learnjs--»-contribute + p {
     margin-top: auto;
     padding-bottom: auto;
     border-bottom: none;

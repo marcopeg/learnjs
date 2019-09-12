@@ -1,7 +1,8 @@
 # Summary
 
-* [LearningWebDev](README.md)
-* [Give us a star on GitHub!](https://github.com/marcopeg/learning-webdev)
+* [🚀 LearnJS - Web Development Roadmap](README.md)
+* [🙌 Contribute and Help us Grow](./CONTRIBUTE.md)
+* [⭐ Give us a star on GitHub!](https://github.com/marcopeg/learning-webdev)
 
 
 ### Bootstrap on CodePen.io
@@ -18,3 +19,4 @@
     - [Dynamic Styles](./contents/codepen/css/pseudoclasses/README.md)
 - [» JS](./contents/codepen/js/README.md)
     - [Use Functions](./contents/codepen/js/use-functions/README.md)
+
