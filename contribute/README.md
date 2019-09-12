@@ -46,12 +46,12 @@ discuss and maybe ask for some changes.
 > project's history** and you can use it during interviews to 
 > **prove your skills and good will with a potential employer 🤠**.
 
-### Resources
+#### Learn more about Open Source contributions
 
 - [This seems to me a very simple beginner guide to OS contributions][3]
 - [Alternative guide that takes branching into account][4]
 
-### The Golden Rule of Pull Requests
+#### The Golden Rule of Pull Requests
 
 - few
 - focused
@@ -63,7 +63,63 @@ Then submit it.
 
 **If you want to fix more stuff, use branches and create multiple PRs 🤠.**
 
+## How do I work on the project?
+
+**NOTE:** this step assumes you have succesfully forked the project in your
+GitHub account, and cloned it locally to your machine.
+
+This website is statically generated using [GitBook.io][5].
+
+> Althoug it is going under deprecation, it is still a very good tool to quickly 
+> build a good looking documentation project.
+
+All the contents are written in [Markdown language][6], which is a human readable
+markup language that easily transpiles into _HTML_. I know... there is a lot to 
+take in here, but it's easier learned than explained. [Just give it a go with this
+tutorial][6].
+
+#### Prerequisites
+
+- you should have the latest codebase locally
+- you should be able to run node 10.x
+- you should be able to edit text files (ex with [VSCode][7])
+
+#### Run the project
+
+Before starting a work session make sure you have the latest source code, then also
+make sure all the dependencies are correctly installed by running:
+
+```
+npm install
+```
+
+At this point you can run the project:
+
+```
+npm start
+```
+
+You should see some logs running for a while, then when everything works fine
+you shoud see this final message:
+
+![npm-start](./npm-start.png)
+
+Now you can open your favourite browser (Chrome or Firefox!) and point it to:
+
+http://localhost:4000
+
+You should see the full website, but now it's running on your machine, and it's
+updating every time you touch a file.
+
+#### Source Files & Folder Structure
+
+[[ TO BE COMPLETED ]]
+
+
 [1]: https://github.com/marcopeg/learnjs
 [2]: https://github.com/marcopeg/learnjs/issues
 [3]: https://github.com/firstcontributions/first-contributions/blob/master/README.md
 [4]: https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/
+[5]: https://github.com/GitbookIO/gitbook
+[6]: https://www.markdownguide.org/getting-started
+[7]: https://code.visualstudio.com/

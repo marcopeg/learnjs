@@ -414,12 +414,12 @@ discuss and maybe ask for some changes.</p>
 project&apos;s history</strong> and you can use it during interviews to 
 <strong>prove your skills and good will with a potential employer &#x1F920;</strong>.</p>
 </blockquote>
-<h3 id="resources">Resources</h3>
+<h4 id="learn-more-about-open-source-contributions">Learn more about Open Source contributions</h4>
 <ul>
 <li><a href="https://github.com/firstcontributions/first-contributions/blob/master/README.md" target="_blank">This seems to me a very simple beginner guide to OS contributions</a></li>
 <li><a href="https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/" target="_blank">Alternative guide that takes branching into account</a></li>
 </ul>
-<h3 id="the-golden-rule-of-pull-requests">The Golden Rule of Pull Requests</h3>
+<h4 id="the-golden-rule-of-pull-requests">The Golden Rule of Pull Requests</h4>
 <ul>
 <li>few</li>
 <li>focused</li>
@@ -427,6 +427,39 @@ project&apos;s history</strong> and you can use it during interviews to
 </ul>
 <p>A good scope would be a single exercise page.<br>Pick one and do your best in order to improve it.<br>Then submit it.</p>
 <p><strong>If you want to fix more stuff, use branches and create multiple PRs &#x1F920;.</strong></p>
+<h2 id="how-do-i-work-on-the-project">How do I work on the project?</h2>
+<p><strong>NOTE:</strong> this step assumes you have succesfully forked the project in your
+GitHub account, and cloned it locally to your machine.</p>
+<p>This website is statically generated using <a href="https://github.com/GitbookIO/gitbook" target="_blank">GitBook.io</a>.</p>
+<blockquote>
+<p>Althoug it is going under deprecation, it is still a very good tool to quickly 
+build a good looking documentation project.</p>
+</blockquote>
+<p>All the contents are written in <a href="https://www.markdownguide.org/getting-started" target="_blank">Markdown language</a>, which is a human readable
+markup language that easily transpiles into <em>HTML</em>. I know... there is a lot to 
+take in here, but it&apos;s easier learned than explained. <a href="https://www.markdownguide.org/getting-started" target="_blank">Just give it a go with this
+tutorial</a>.</p>
+<h4 id="prerequisites">Prerequisites</h4>
+<ul>
+<li>you should have the latest codebase locally</li>
+<li>you should be able to run node 10.x</li>
+<li>you should be able to edit text files (ex with <a href="https://code.visualstudio.com/" target="_blank">VSCode</a>)</li>
+</ul>
+<h4 id="run-the-project">Run the project</h4>
+<p>Before starting a work session make sure you have the latest source code, then also
+make sure all the dependencies are correctly installed by running:</p>
+<pre><code>npm install
+</code></pre><p>At this point you can run the project:</p>
+<pre><code>npm start
+</code></pre><p>You should see some logs running for a while, then when everything works fine
+you shoud see this final message:</p>
+<p><img src="npm-start.png" alt="npm-start"></p>
+<p>Now you can open your favourite browser (Chrome or Firefox!) and point it to:</p>
+<p><a href="http://localhost:4000" target="_blank">http://localhost:4000</a></p>
+<p>You should see the full website, but now it&apos;s running on your machine, and it&apos;s
+updating every time you touch a file.</p>
+<h4 id="source-files--folder-structure">Source Files &amp; Folder Structure</h4>
+<p>[[ TO BE COMPLETED ]]</p>
 <h2 id="&#x1F4AC;-comments--new-ideas">&#x1F4AC; Comments &amp; New Ideas:</h2>
 <script>console.log(window.location.pathname)</script>
 <div id="disqus_thread"></div>
@@ -495,7 +528,7 @@ s.setAttribute('data-timestamp', +new Date());
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"🙌 Contribute and Help us Grow","level":"1.2","depth":1,"next":{"title":"⭐ Give us a star on GitHub!","level":"1.3","depth":1,"url":"https://github.com/marcopeg/learning-webdev","ref":"https://github.com/marcopeg/learning-webdev","articles":[]},"previous":{"title":"🚀 LearnJS - Web Development Roadmap","level":"1.1","depth":1,"path":"README.md","ref":"README.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["add-js-css","custom-favicon","insert-logo","code","collapsible-menu","disqus-legacy","youtube-placeholder","codepen-placeholder","redirect","redirect-https"],"pluginsConfig":{"collapsible-menu":{},"search":{},"youtube-placeholder":{},"add-js-css":{"css":["assets/style.css"]},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"code":{"copyButtons":true},"codepen-placeholder":{"account":"marcopeg","username":"Marco Pegoraro","width":"100%","height":"300px"},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"favicon":"https://marcopeg.com/learnjs/assets/images/forrestjs.ico","disqus-legacy":{"shortname":"learnjs","wrapper":"<h2>💬 Comments & New Ideas:</h2>{{disqus}}","exclude":["README.md","contents/codepen/README.md","contents/codepen/html/README.md","contents/codepen/css/README.md","contents/codepen/js/README.md"]},"custom-favicon":{},"redirect-https":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"redirect":{},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"insert-logo":{"url":"https://marcopeg.com/learnjs/assets/images/forrestjs.png","style":"background: none;"}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"contribute/README.md","mtime":"2019-09-12T16:05:58.332Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-09-12T16:08:08.360Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"🙌 Contribute and Help us Grow","level":"1.2","depth":1,"next":{"title":"⭐ Give us a star on GitHub!","level":"1.3","depth":1,"url":"https://github.com/marcopeg/learning-webdev","ref":"https://github.com/marcopeg/learning-webdev","articles":[]},"previous":{"title":"🚀 LearnJS - Web Development Roadmap","level":"1.1","depth":1,"path":"README.md","ref":"README.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["add-js-css","custom-favicon","insert-logo","code","collapsible-menu","disqus-legacy","youtube-placeholder","codepen-placeholder","redirect","redirect-https"],"pluginsConfig":{"collapsible-menu":{},"search":{},"youtube-placeholder":{},"add-js-css":{"css":["assets/style.css"]},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"code":{"copyButtons":true},"codepen-placeholder":{"account":"marcopeg","username":"Marco Pegoraro","width":"100%","height":"300px"},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"favicon":"https://marcopeg.com/learnjs/assets/images/forrestjs.ico","disqus-legacy":{"shortname":"learnjs","wrapper":"<h2>💬 Comments & New Ideas:</h2>{{disqus}}","exclude":["README.md","contents/codepen/README.md","contents/codepen/html/README.md","contents/codepen/css/README.md","contents/codepen/js/README.md"]},"custom-favicon":{},"redirect-https":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"redirect":{},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"insert-logo":{"url":"https://marcopeg.com/learnjs/assets/images/forrestjs.png","style":"background: none;"}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"contribute/README.md","mtime":"2019-09-12T16:24:50.715Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-09-12T16:25:01.690Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
