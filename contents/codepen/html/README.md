@@ -28,4 +28,4 @@ open it with your default browser.
 
 [1]: https://codepen.io
 [2]: https://code.visualstudio.com/
-[3]: ./hello-world.md
+[3]: ./hello-world/README.md
