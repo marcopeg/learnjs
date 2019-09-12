@@ -1,7 +1,7 @@
 # Summary
 
 * [🚀 LearnJS - Web Development Roadmap](README.md)
-* [🙌 Contribute and Help us Grow](./CONTRIBUTE.md)
+* [🙌 Contribute and Help us Grow](./contribute/README.md)
 * [⭐ Give us a star on GitHub!](https://github.com/marcopeg/learning-webdev)
 
 

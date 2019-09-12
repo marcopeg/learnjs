@@ -26,7 +26,6 @@
       "wrapper": "<h2>💬 Comments & New Ideas:</h2>{{disqus}}",
       "exclude": [
         "README.md",
-        "CONTRIBUTE.md",
         "contents/codepen/README.md",
         "contents/codepen/html/README.md",
         "contents/codepen/css/README.md",
