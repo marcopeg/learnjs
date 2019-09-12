@@ -113,7 +113,32 @@ updating every time you touch a file.
 
 #### Source Files & Folder Structure
 
-[[ TO BE COMPLETED ]]
+The public website is hosted with [GitHub pages][8] which is a great **and free** way
+to host static websites.
+
+The bottom line is that the `/docs` folder should never be touched. It contains the
+transpiled version of the project and it is used by GitHub only.
+
+When you work with the contents you need to dig into the `/contents` folder, which
+contains all the source files.
+
+Each page is represented by a `page-name/README.md` file.
+
+> There is a good reason for this decision: [Open Closes Principle][9]
+
+#### Challenge n.1
+
+1. navigate to a specific exercise in the local website
+2. identify the relative source file in your editor
+3. change the title
+4. observe that the website updates (may take a few seconds)
+
+#### Challenge n.2
+
+1. learn how to create links in Markdown [using the tutorial][6]
+2. find some relevant tutorials or videos for a specific page
+3. add the link
+4. create your first Pull Request
 
 
 [1]: https://github.com/marcopeg/learnjs
@@ -123,3 +148,5 @@ updating every time you touch a file.
 [5]: https://github.com/GitbookIO/gitbook
 [6]: https://www.markdownguide.org/getting-started
 [7]: https://code.visualstudio.com/
+[8]: https://pages.github.com/
+[9]: https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle

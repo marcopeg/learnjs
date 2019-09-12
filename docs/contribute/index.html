@@ -459,7 +459,30 @@ you shoud see this final message:</p>
 <p>You should see the full website, but now it&apos;s running on your machine, and it&apos;s
 updating every time you touch a file.</p>
 <h4 id="source-files--folder-structure">Source Files &amp; Folder Structure</h4>
-<p>[[ TO BE COMPLETED ]]</p>
+<p>The public website is hosted with <a href="https://pages.github.com/" target="_blank">GitHub pages</a> which is a great <strong>and free</strong> way
+to host static websites.</p>
+<p>The bottom line is that the <code>/docs</code> folder should never be touched. It contains the
+transpiled version of the project and it is used by GitHub only.</p>
+<p>When you work with the contents you need to dig into the <code>/contents</code> folder, which
+contains all the source files.</p>
+<p>Each page is represented by a <code>page-name/README.md</code> file.</p>
+<blockquote>
+<p>There is a good reason for this decision: <a href="https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle" target="_blank">Open Closes Principle</a></p>
+</blockquote>
+<h4 id="challenge-n1">Challenge n.1</h4>
+<ol>
+<li>navigate to a specific exercise in the local website</li>
+<li>identify the relative source file in your editor</li>
+<li>change the title</li>
+<li>observe that the website updates (may take a few seconds)</li>
+</ol>
+<h4 id="challenge-n2">Challenge n.2</h4>
+<ol>
+<li>learn how to create links in Markdown <a href="https://www.markdownguide.org/getting-started" target="_blank">using the tutorial</a></li>
+<li>find some relevant tutorials or videos for a specific page</li>
+<li>add the link</li>
+<li>create your first Pull Request</li>
+</ol>
 <h2 id="&#x1F4AC;-comments--new-ideas">&#x1F4AC; Comments &amp; New Ideas:</h2>
 <script>console.log(window.location.pathname)</script>
 <div id="disqus_thread"></div>
@@ -528,7 +551,7 @@ s.setAttribute('data-timestamp', +new Date());
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"🙌 Contribute and Help us Grow","level":"1.2","depth":1,"next":{"title":"⭐ Give us a star on GitHub!","level":"1.3","depth":1,"url":"https://github.com/marcopeg/learning-webdev","ref":"https://github.com/marcopeg/learning-webdev","articles":[]},"previous":{"title":"🚀 LearnJS - Web Development Roadmap","level":"1.1","depth":1,"path":"README.md","ref":"README.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["add-js-css","custom-favicon","insert-logo","code","collapsible-menu","disqus-legacy","youtube-placeholder","codepen-placeholder","redirect","redirect-https"],"pluginsConfig":{"collapsible-menu":{},"search":{},"youtube-placeholder":{},"add-js-css":{"css":["assets/style.css"]},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"code":{"copyButtons":true},"codepen-placeholder":{"account":"marcopeg","username":"Marco Pegoraro","width":"100%","height":"300px"},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"favicon":"https://marcopeg.com/learnjs/assets/images/forrestjs.ico","disqus-legacy":{"shortname":"learnjs","wrapper":"<h2>💬 Comments & New Ideas:</h2>{{disqus}}","exclude":["README.md","contents/codepen/README.md","contents/codepen/html/README.md","contents/codepen/css/README.md","contents/codepen/js/README.md"]},"custom-favicon":{},"redirect-https":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"redirect":{},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"insert-logo":{"url":"https://marcopeg.com/learnjs/assets/images/forrestjs.png","style":"background: none;"}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"contribute/README.md","mtime":"2019-09-12T16:24:50.715Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-09-12T16:25:01.690Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"🙌 Contribute and Help us Grow","level":"1.2","depth":1,"next":{"title":"⭐ Give us a star on GitHub!","level":"1.3","depth":1,"url":"https://github.com/marcopeg/learning-webdev","ref":"https://github.com/marcopeg/learning-webdev","articles":[]},"previous":{"title":"🚀 LearnJS - Web Development Roadmap","level":"1.1","depth":1,"path":"README.md","ref":"README.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["add-js-css","custom-favicon","insert-logo","code","collapsible-menu","disqus-legacy","youtube-placeholder","codepen-placeholder","redirect","redirect-https"],"pluginsConfig":{"collapsible-menu":{},"search":{},"youtube-placeholder":{},"add-js-css":{"css":["assets/style.css"]},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"code":{"copyButtons":true},"codepen-placeholder":{"account":"marcopeg","username":"Marco Pegoraro","width":"100%","height":"300px"},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"favicon":"https://marcopeg.com/learnjs/assets/images/forrestjs.ico","disqus-legacy":{"shortname":"learnjs","wrapper":"<h2>💬 Comments & New Ideas:</h2>{{disqus}}","exclude":["README.md","contents/codepen/README.md","contents/codepen/html/README.md","contents/codepen/css/README.md","contents/codepen/js/README.md"]},"custom-favicon":{},"redirect-https":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"redirect":{},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"insert-logo":{"url":"https://marcopeg.com/learnjs/assets/images/forrestjs.png","style":"background: none;"}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"contribute/README.md","mtime":"2019-09-12T16:37:49.502Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-09-12T16:37:57.562Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
