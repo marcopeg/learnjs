@@ -30,4 +30,10 @@ with your friends.
 
 {% youtube embed="G9J-KcqcQYY" %}{% endyoutube %}
 
+This is a way more extensive video. It's almost 15 minutes, but I believe the guy explains
+things very well. **Mind that he will get into some really advanced topics**, so don't
+feel compelled to understand everything he shows 😀
+
+{% youtube embed="qlodxDv5yqc" %}{% endyoutube %}
+
 [1]: https://codepen.io "Run HTML/CSS/Javascript online and share your work"

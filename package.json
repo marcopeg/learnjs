@@ -9,8 +9,8 @@
     "book:build": "node_modules/.bin/gitbook build . docs",
     "clean": "rm -rf docs",
     "commit": "git add . && git commit -m \"publish\" && git push",
-    "start": "npm run clean && yarn && npm run book:install && npm run book:serve",
-    "build": "npm run clean && yarn && npm run book:install && npm run book:build && npm run commit"
+    "start": "npm run clean && npm run book:install && npm run book:serve",
+    "build": "npm run clean && npm run book:install && npm run book:build && npm run commit"
   },
   "repository": {
     "type": "git",
