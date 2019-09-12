@@ -17,7 +17,7 @@
     - [Style Tags](./contents/codepen/css/tags/README.md)
     - [Style Attributes](./contents/codepen/css/attributes/README.md)
     - [Dynamic Styles](./contents/codepen/css/pseudoclasses/README.md)
-- [» JS](./contents/codepen/js/README.md)
+- [» Javascript](./contents/codepen/js/README.md)
     - [Use Functions](./contents/codepen/js/use-functions/README.md)
     - [Use Variables](./contents/codepen/js/use-variables/README.md)
 
