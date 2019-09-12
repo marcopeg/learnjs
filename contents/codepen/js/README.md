@@ -5,7 +5,7 @@ It's time to make things fun 😎
 
 So far you dealt with **static markup and declarative code**: _HTML_ and _CSS_.
 
-> They are similar in the way that you explain what you want, and then hand over to the
+> They are similar in the way that **you explain what you want**, and then hand over to the
 > browser the task of actually implementing your will.
 
 **And once you write the code, things won't change.**
