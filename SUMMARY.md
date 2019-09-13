@@ -21,4 +21,5 @@
     - [Use Functions](./contents/codepen/js/use-functions/README.md)
     - [Use Variables](./contents/codepen/js/use-variables/README.md)
     - [Use Conditionals](./contents/codepen/js/use-conditionals/README.md)
+    - [Create Functions](./contents/codepen/js/create-functions/README.md)
 

@@ -36,4 +36,16 @@ feel compelled to understand everything he shows 😀
 
 {% youtube embed="qlodxDv5yqc" %}{% endyoutube %}
 
+## Demo Everything You Build!
+
+This roadmap is set up so that each challenge produces some kind of visual results.
+In the beginning it's going to be very simple stuff, but you will soon be able to 
+create real Web Applications leveraging CodePen and other online tools.
+
+It is therefore important that you can demonstrate your progresses to your friends
+and significant ones. I often demo my creations to my wife... sometimes she likes it even! :-)
+
+Here is a good tutorial [**how to run CodePen in demo mode**][2]
+
 [1]: https://codepen.io "Run HTML/CSS/Javascript online and share your work"
+[2]: https://blog.codepen.io/documentation/views/full-page-view/

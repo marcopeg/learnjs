@@ -39,6 +39,15 @@ may find cool tricks in it:
 
 {% youtube embed="qlodxDv5yqc" %}{% endyoutube %}
 
+## Debug Your Code!
+
+Once you step into _Javascript_ you will eventually write something that just doesn't work.
+To me, it happens every single day.
+
+It is therefore important to be able to find out what is not going as planned. Modern
+browsers like Chrome and Firefox help a lot with that, and here is a very good tutorial
+[**how to use CodePen in debug mode**][3]:
+
 [1]: ../css/pseudoclasses.md
 [2]: https://www.quora.com/Is-CSS-or-HTML-a-programming-language
-
+[3]: https://blog.codepen.io/documentation/views/debug-view/
