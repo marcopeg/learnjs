@@ -12,9 +12,9 @@
     "redirect-https"
   ],
   "pluginsConfig": {
-    "favicon": "https://marcopeg.com/learnjs/assets/images/forrestjs.ico",
+    "favicon": "https://learnjs.today/assets/images/forrestjs.ico",
     "insert-logo": {
-      "url": "https://marcopeg.com/learnjs/assets/images/forrestjs.png"
+      "url": "https://learnjs.today/assets/images/forrestjs.png"
     },
     "add-js-css": {
       "css": [
