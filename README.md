@@ -1,11 +1,14 @@
 # LearnJS - Web Development Roadmap
 
-This is a roadmap of **progressively interesting exercises** that guide you
+This is a roadmap of **progressively challenging exercises** that guides you
 through the unique experience of becoming a Web Developer.
 
 > My personal suggestion is that you start from the basics and move forward
 > at your own pace.  
 > **You set your own level of efforts.**
+
+**IMPORTANT:** we are looking for a decent logo :-) please send your
+ideas and proposals to `marco.pegoraro@gmail.com`.
 
 ### 👉 Progress by User Stories
 

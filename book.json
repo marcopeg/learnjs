@@ -22,7 +22,7 @@
       ]
     },
     "disqus-legacy": {
-      "shortname": "learnjs",
+      "shortname": "learnjs-today",
       "wrapper": "<h2>💬 Comments & New Ideas:</h2>{{disqus}}",
       "exclude": [
         "README.md",

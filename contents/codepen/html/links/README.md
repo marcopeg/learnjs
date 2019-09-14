@@ -15,7 +15,7 @@ I should be able to click a link
 Here is the url of this website, you can use it in your exercise:
 
 ```
-https://marcopeg.com/learnjs
+https://learnjs.today
 ```
 
 You can try things out directly on this pen:  
