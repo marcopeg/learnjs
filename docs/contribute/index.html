@@ -1,0 +1,6 @@
+<script>
+    let referrer = new URL(document.referrer);
+    let hostRedirection = 'https://learnjs.today';
+
+    document.location.href = hostRedirection + referrer.pathname;
+</script>

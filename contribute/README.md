@@ -116,8 +116,8 @@ updating every time you touch a file.
 The public website is hosted with [GitHub pages][8] which is a great **and free** way
 to host static websites.
 
-The bottom line is that the `/docs` folder should never be touched. It contains the
-transpiled version of the project and it is used by GitHub only.
+**The bottom line is that the `/docs` folder should never be touched**.  
+It contains the transpiled version of the project and it is used by GitHub only.
 
 When you work with the contents you need to dig into the `/contents` folder, which
 contains all the source files.

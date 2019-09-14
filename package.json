@@ -5,14 +5,14 @@
   "private": true,
   "scripts": {
     "start": "npm run clean && npm run book:install && npm run book:serve",
-    "clean": "rm -rf docs",
+    "clean": "rm -rf build",
     "book:install": "node_modules/.bin/gitbook install",
-    "book:serve": "node_modules/.bin/gitbook serve . docs",
-    "book:build": "node_modules/.bin/gitbook build . docs",
-    "deploy:cname": "echo \"learnjs.today\" > ./docs/CNAME",
-    "deploy:init": "(cd docs && git init && git remote add git@github.com:jearnjs-today/learnjs-today.github.io.git)",
-    "deploy:commit": "(cd public && git add . && git commit -m \"pub\" && git push --force -u origin master)",
-    "deploy": "npm run clean && npm run book:install && npm run book:build && npm run deploy:cname && npm run deploy:init && npm run deploy:commit"
+    "book:serve": "node_modules/.bin/gitbook serve . build",
+    "book:build": "node_modules/.bin/gitbook build . build",
+    "deploy:cname": "echo \"learnjs.today\" > ./build/CNAME",
+    "deploy:init": "(cd build && git init && git remote add origin git@github.com:learnjs-today/learnjs-today.github.io.git)",
+    "deploy:commit": "(cd build && git add . && git commit -m \"pub\" && git push --force -u origin master)",
+    "deploy": "npm run clean && npm run book:install && npm run book:build && npm run deploy:cname && npm run deploy:init && npm run deploy:commit && npm run clean"
   },
   "repository": {
     "type": "git",
