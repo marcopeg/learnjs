@@ -13,7 +13,7 @@ And this message should be nicely formatted into titles,
 ```
 
 You can try things out directly on this pen:  
-https://codepen.io/marcopeg/pen/jONzwqB
+https://codepen.io/marcopeg/pen/rNBJoPx
 
 ---
 

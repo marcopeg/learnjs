@@ -22,4 +22,7 @@
     - [Use Variables](./contents/codepen/js/use-variables/README.md)
     - [Use Conditionals](./contents/codepen/js/use-conditionals/README.md)
     - [Create Functions](./contents/codepen/js/create-functions/README.md)
+    - [Events: onClick](./contents/codepen/js/on-click/README.md)
+    - [Events: onClick 2](./contents/codepen/js/on-click-2/README.md)
+    - [Events: onClick 3](./contents/codepen/js/on-click-3/README.md)
 
