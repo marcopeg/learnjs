@@ -9,7 +9,8 @@
     "youtube-placeholder",
     "codepen-placeholder",
     "redirect",
-    "redirect-https"
+    "redirect-https",
+    "analytics"
   ],
   "pluginsConfig": {
     "favicon": "https://learnjs.today/assets/images/learnjs.ico",
@@ -37,6 +38,9 @@
       "username": "Marco Pegoraro",
       "width": "100%",
       "height": "300px"
+    },
+    "analytics": {
+      "learnjs.today": [ "google", "UA-148196523-1" ]
     }
   }
 }
