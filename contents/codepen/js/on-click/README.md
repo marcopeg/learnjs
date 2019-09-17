@@ -18,8 +18,8 @@ https://codepen.io/marcopeg/pen/zYOLgqR?editors=1010
 
 > Don't run this unless you gave a very good effort to solve it yourself!
 
-{% codepen id = "WNeKVGG", defaultTab = "html,result" %} {% endcodepen %}
-{% codepen id = "XWrBvNZ", defaultTab = "html,result" %} {% endcodepen %}
+{% codepen id = "WNeKVGG", defaultTab = "js,result" %} {% endcodepen %}
+{% codepen id = "XWrBvNZ", defaultTab = "js,result" %} {% endcodepen %}
 
 ---
 
@@ -28,7 +28,8 @@ https://codepen.io/marcopeg/pen/zYOLgqR?editors=1010
 {% youtube embed="7UstS0hsHgI" %}{% endyoutube %}
 
 - [MDN: getElementById](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
-- [MDN: onClick intro](https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onclick)
 - [MDN: addEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
+- [MDN: functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+- [MDN: arrow functions - why and when](https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/)
 
 ---

@@ -23,6 +23,6 @@
     - [Use Conditionals](./contents/codepen/js/use-conditionals/README.md)
     - [Create Functions](./contents/codepen/js/create-functions/README.md)
     - [Events: onClick](./contents/codepen/js/on-click/README.md)
-    - [Events: onClick 2](./contents/codepen/js/on-click-2/README.md)
-    - [Events: onClick 3](./contents/codepen/js/on-click-3/README.md)
+    - [Web API](./contents/codepen/js/web-api/README.md)
+    - [Event Context](./contents/codepen/js/event-context/README.md)
 
