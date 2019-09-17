@@ -25,4 +25,5 @@
     - [Events: onClick](./contents/codepen/js/on-click/README.md)
     - [Web API](./contents/codepen/js/web-api/README.md)
     - [Event Context](./contents/codepen/js/event-context/README.md)
+    - [Events: onChange](./contents/codepen/js/on-change/README.md)
 
