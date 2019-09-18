@@ -27,5 +27,5 @@
     - [Web API](./contents/codepen/events/web-api/README.md)
     - [Event Context](./contents/codepen/events/event-context/README.md)
     - [Events: onChange](./contents/codepen/events/on-change/README.md)
-    - [The Chat Inout](./contents/codepen/events/chat-input/README.md)
+    - [The Chat Input](./contents/codepen/events/chat-input/README.md)
 

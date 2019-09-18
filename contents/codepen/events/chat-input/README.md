@@ -33,10 +33,29 @@ This is not an easy exercise and it will probably give you a decent challenge.
 
 {% codepen id = "wvwYMxM", defaultTab = "js,result" %} {% endcodepen %}
 
+In this second solution, we leverage on _functions_ to split the codebase
+in smaller and simpler bloks, then we glue pieces together to build the main logic.
+
+{% codepen id = "yLBROZG", defaultTab = "js,result" %} {% endcodepen %}
+
+In this third solution, we keep building on features. This time we want
+the "POST" button to be visible only if the message can be sent.
+
+Messing up with different UI states (how it looks) based on some kind of
+logic is a very common features. Just think at the "b" and "i" buttons in
+a classic word processor. They change constantly based on the cursor's
+position.
+
+{% codepen id = "BaBqzjx", defaultTab = "js,result" %} {% endcodepen %}
+
 ---
 
 ## 🤓 Resources:
 
-[[ TO DO ]]
+- [MDN: CSS Attribute Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
+- [MDN: CSS Selectors Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
+- [What is a pure function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
+- [MDN: preventDefault](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault)
+- [MDN: stopPropagation](https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation)
 
 ---
