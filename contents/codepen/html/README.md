@@ -2,7 +2,7 @@
 
 [LearnJS](../../../README.md) » [CodePen.io](../README.md)
 
-In this first section you will move your first steps with _HTML_, the
+In this first section, you will move your first steps with _HTML_, the
 language of the web.
 
 > How old are you? I bet HTML is older!  

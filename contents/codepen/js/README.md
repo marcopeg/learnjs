@@ -11,16 +11,16 @@ So far you dealt with **static markup and declarative code**: _HTML_ and _CSS_.
 **And once you write the code, things won't change.**
 
 Ok, with _CSS_ you learned about [pseudoclasses][1] that can be used to make some UI effects.
-Still the animations that you put in place are always the same!
+Still, the animations that you put in place are always the same!
 
 ## Welcome Javascript
 
-With _Javascript_ you are finally dealing with a [real programming language][2]!
+With _Javascript_, you are finally dealing with a [real programming language][2]!
 
 With _Javascript_ you can:
 
 - take decisions
-- remember informations
+- remember information
 - automate repeating tasks
 
 > With _Javascript_ you make a Web Page behave the way you want!  
@@ -45,7 +45,7 @@ Once you step into _Javascript_ you will eventually write something that just do
 To me, it happens every single day.
 
 It is therefore important to be able to find out what is not going as planned. Modern
-browsers like Chrome and Firefox help a lot with that, and here is a very good tutorial
+browsers like Chrome and Firefox help a lot with that, and here is a very good tutorial on 
 [**how to use CodePen in debug mode**][3]:
 
 [1]: ../css/pseudoclasses.md
