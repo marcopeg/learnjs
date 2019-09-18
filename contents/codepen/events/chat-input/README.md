@@ -34,7 +34,7 @@ This is not an easy exercise and it will probably give you a decent challenge.
 {% codepen id = "wvwYMxM", defaultTab = "js,result" %} {% endcodepen %}
 
 In this second solution, we leverage on _functions_ to split the codebase
-in smaller and simpler bloks, then we glue pieces together to build the main logic.
+into smaller and simpler blocks, then we glue pieces together to build the main logic.
 
 {% codepen id = "yLBROZG", defaultTab = "js,result" %} {% endcodepen %}
 
@@ -42,7 +42,7 @@ In this third solution, we keep building on features. This time we want
 the "POST" button to be visible only if the message can be sent.
 
 Messing up with different UI states (how it looks) based on some kind of
-logic is a very common features. Just think at the "b" and "i" buttons in
+logic are very common features. Just think of the "b" and "i" buttons in
 a classic word processor. They change constantly based on the cursor's
 position.
 
