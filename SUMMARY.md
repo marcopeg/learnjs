@@ -32,4 +32,6 @@
     - [Append Child](./contents/codepen/dom/append-child/README.md)
     - [Endless List](./contents/codepen/dom/endless-list/README.md)
     - [Todo List](./contents/codepen/dom/todo-list/README.md)
+    - [Remove Node](./contents/codepen/dom/remove-node/README.md)
+    - [Todo List - Take 2](./contents/codepen/dom/todo-list-2/README.md)
 
