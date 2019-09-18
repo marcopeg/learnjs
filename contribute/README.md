@@ -23,9 +23,10 @@ your fellow students:
 
 There are mostly 3 possible ways to contribute:
 
-- clone the repo and submit pull requests (see below)
+- [Join the Spectrum Chat](https://spectrum.chat/learnjs)
+- Use the **comments board** at the bottom of each exercise
 - [submit new issues in the repo board][2]
-- comment your ideas in the exercise page
+- clone the repo and submit pull requests (see below)
 
 ## What the heck is a Pull Request anyway?
 

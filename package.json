@@ -1,5 +1,5 @@
 {
-  "name": "learning-web-dev",
+  "name": "learnjs-today",
   "version": "0.0.1",
   "description": "Goal oriented Web Development roadmap that focuses on visible results that you can quickly share with your friends.",
   "private": true,
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/forrestjs/gitbook.git"
+    "url": "git+https://github.com/marcopeg/learnjs.git"
   },
   "author": "Marco Pegoraro",
   "license": "MIT",
