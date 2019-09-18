@@ -8,7 +8,7 @@ and relatives.
 > Why?  
 > **Because you should be freakin' proud of each step you take 😎**
 
-Throughout this section you will use [CodePen.io][1].  
+Throughout this section, you will use [CodePen.io][1].  
 Follow [this link][1], play around, create an account and learn how 
 this platform works.
 
@@ -20,7 +20,7 @@ The **main benefit** is that you will be able to write code **without worry with
 the whole infrastructure and computer setup**.
 
 It's a shortcut that let you dig right into the Web Development pulp.  
-No boring setup steps, no platform-dependant struggle (they will come later on anyway...)
+No boring setup steps, no platform-dependent struggle (they will come later on anyway...)
 
 ## Let's Get Started
 
@@ -39,7 +39,7 @@ feel compelled to understand everything he shows 😀
 ## Demo Everything You Build!
 
 This roadmap is set up so that each challenge produces some kind of visual results.
-In the beginning it's going to be very simple stuff, but you will soon be able to 
+In the beginning, it's going to be very simple stuff, but you will soon be able to 
 create real Web Applications leveraging CodePen and other online tools.
 
 It is therefore important that you can demonstrate your progresses to your friends
