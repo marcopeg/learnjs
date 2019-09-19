@@ -22,6 +22,8 @@ files with `file-name.html` extension
 Then you write your solution into it and double click it to
 open it with your default browser.
 
+{% youtube embed="BvJYXl2ywUE" %}{% endyoutube %}
+
 ---
 
 [👉 Go to the first challenge »][3]

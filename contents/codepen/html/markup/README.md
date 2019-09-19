@@ -31,6 +31,22 @@ This video might be a little old, but they explain things in a simple way.
 
 {% youtube embed="CKlh1lwe2rY" %}{% endyoutube %}
 
+This video gives you a comprehensive walk around with many different _HTML TAGS_.
+
+**NOTE:** the author uses _Visual Studio Code_ and works on his own computer,
+for the sake of simplicity I suggest you **stick with CodePen** for now.
+
+> You will be able to play with all the cool stuff without the need to go
+> through the often annoying experience of setting up your machine.
+> _We will get to that later on in the roadmap!_
+
+{% youtube embed="PypMN-yui4Y" %}{% endyoutube %}
+
+Here the author goes beyond the _TAGS_ and talk about invisbile items, _HTML entities_
+and _meta tags_.
+
+{% youtube embed="1rbo_HHt5nw" %}{% endyoutube %}
+
 - [HTML on Wikipedia][1] - interesting for the history part
 
 ---

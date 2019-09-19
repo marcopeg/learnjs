@@ -33,6 +33,8 @@ https://codepen.io/marcopeg/pen/XWrEgjq
 
 ## 🤓 Resources:
 
+{% youtube embed="bFvjE4ZRtSE" %}{% endyoutube %}
+
 - [Read the "A" tag reference on MND »][1]
 - [What is a URL?][2]
 - [What are the different parts of a URL?][3]
