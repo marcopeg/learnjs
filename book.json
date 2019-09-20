@@ -1,7 +1,7 @@
 {
   "plugins": [
     "add-js-css",
-    "custom-favicon",
+    "favicon",
     "insert-logo",
     "code",
     "collapsible-menu",
@@ -13,7 +13,15 @@
     "analytics"
   ],
   "pluginsConfig": {
-    "favicon": "https://learnjs.today/assets/images/learnjs.ico",
+    "favicon": {
+      "shortcut": "assets/images/learnjs.ico",
+      "bookmark": "assets/images/learnjs-ico.png",
+      "appleTouch": "assets/images/learnjs-ico.png",
+        "appleTouchMore": {
+            "120x120": "assets/images/learnjs-ico.png",
+            "180x180": "assets/images/learnjs-ico.png"
+        }
+    },
     "insert-logo": {
       "url": "https://learnjs.today/assets/images/learnjs.png"
     },
