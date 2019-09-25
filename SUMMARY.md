@@ -9,6 +9,7 @@
 
 - [» Introduction to CodePen](./contents/codepen/README.md)
 - [» HTML](./contents/codepen/html/README.md)
+    - [get started](./contents/codepen/html/get-started/README.md)
     - [Hello World](./contents/codepen/html/hello-world/README.md)
     - [Markup](./contents/codepen/html/markup/README.md)
     - [Embed Images](./contents/codepen/html/images/README.md)
