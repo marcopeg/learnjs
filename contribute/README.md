@@ -52,6 +52,11 @@ discuss and maybe ask for some changes.
 - [This seems to me a very simple beginner guide to OS contributions][3]
 - [An alternative guide that takes branching into account][4]
 
+#### Extra resources
+
+- [Practice on git commands by visualizing the steps][5]
+- [Go through this website to get all you need of GIT][6]
+
 #### The Golden Rule of Pull Requests
 
 - few
@@ -69,21 +74,21 @@ Then submit it.
 **NOTE:** This step assumes you have successfully forked the project in your
 GitHub account, and cloned it locally to your machine.
 
-This website is statically generated using [GitBook.io][5].
+This website is statically generated using [GitBook.io][7].
 
 > Although it is going under deprecation, it is still a very good tool to quickly 
 > build a good looking documentation project.
 
-All the contents are written in [Markdown language][6], which is a human-readable
+All the contents are written in [Markdown language][8], which is a human-readable
 markup language that easily transpile into _HTML_. I know... there is a lot to 
 take in here, but it's easier learned than explained. [Just give it a go with this
-tutorial][6].
+tutorial][8].
 
 #### Prerequisites
 
 - you should have the latest codebase locally
 - you should be able to run node 10.x
-- you should be able to edit text files (ex with [VSCode][7])
+- you should be able to edit text files (ex with [VSCode][9])
 
 #### Run the project
 
@@ -114,7 +119,7 @@ updating every time you touch a file.
 
 #### Source Files & Folder Structure
 
-The public website is hosted with [GitHub pages][8] which is a great **and free** way
+The public website is hosted with [GitHub pages][10] which is a great **and free** way
 to host static websites.
 
 **The bottom line is that the `/docs` folder should never be touched**.  
@@ -125,7 +130,7 @@ contains all the source files.
 
 Each page is represented by a `page-name/README.md` file.
 
-> There is a good reason for this decision: [Open Closes Principle][9]
+> There is a good reason for this decision: [Open Closes Principle][11]
 
 #### Challenge n.1
 
@@ -136,7 +141,7 @@ Each page is represented by a `page-name/README.md` file.
 
 #### Challenge n.2
 
-1. learn how to create links in Markdown [using the tutorial][6]
+1. learn how to create links in Markdown [using the tutorial][8]
 2. find some relevant tutorials or videos for a specific page
 3. add the link
 4. create your first Pull Request
@@ -146,8 +151,10 @@ Each page is represented by a `page-name/README.md` file.
 [2]: https://github.com/marcopeg/learnjs/issues
 [3]: https://github.com/firstcontributions/first-contributions/blob/master/README.md
 [4]: https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/
-[5]: https://github.com/GitbookIO/gitbook
-[6]: https://www.markdownguide.org/getting-started
-[7]: https://code.visualstudio.com/
-[8]: https://pages.github.com/
-[9]: https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle
+[5]: https://learngitbranching.js.org/
+[6]: https://www.atlassian.com/git/tutorials/setting-up-a-repository
+[7]: https://github.com/GitbookIO/gitbook
+[8]: https://www.markdownguide.org/getting-started
+[9]: https://code.visualstudio.com/
+[10]: https://pages.github.com/
+[11]: https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle
