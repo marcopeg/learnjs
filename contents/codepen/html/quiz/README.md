@@ -1,4 +1,4 @@
-# HTML» test your knowldge
+# HTML» Time of quiz
 
 [LearnJS](../../../README.md) » [CodePen.io](../README.md)
 
