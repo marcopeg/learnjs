@@ -14,6 +14,8 @@
     - [Markup](./contents/codepen/html/markup/README.md)
     - [Embed Images](./contents/codepen/html/images/README.md)
     - [Link to Pages](./contents/codepen/html/links/README.md)
+    - [Time of quiz](./contents/codepen/html/quiz/README.md)
+
 - [» CSS](./contents/codepen/css/README.md)
     - [Style Tags](./contents/codepen/css/tags/README.md)
     - [Style Attributes](./contents/codepen/css/attributes/README.md)
