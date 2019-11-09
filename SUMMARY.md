@@ -37,6 +37,12 @@
     - [Todo List](./contents/codepen/dom/todo-list/README.md)
     - [Remove Node](./contents/codepen/dom/remove-node/README.md)
     - [Todo List - Take 2](./contents/codepen/dom/todo-list-2/README.md)
+- [» Data Manipulation](./contents/codepen/data/README.md)
+    - [Loop through an Array](./contents/codepen/data/array-loop/README.md)
+    - [Add new items to an Array](./contents/codepen/data/array-push/README.md)
+    - [Remove items from an Array](./contents/codepen/data/array-splice/README.md)
+    - [Array Todo List](./contents/codepen/data/array-todo-list/README.md)
+    - [Array Todo List 2](./contents/codepen/data/array-todo-list-2/README.md)
 
 ### Drafts
 
