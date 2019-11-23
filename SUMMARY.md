@@ -50,6 +50,9 @@
 - [» React](./contents/codesandbox/react/README.md)
     - [» Hello World](./contents/codesandbox/react/hello-world/README.md)
     - [» Pure Componenents](./contents/codesandbox/react/components-pure/README.md)
+    - [» Render Arrays](./contents/codesandbox/react/render-arrays/README.md)
+    - [» Render Conditionals](./contents/codesandbox/react/render-conditionals/README.md)
+    - [» Render Todos](./contents/codesandbox/react/render-todos/README.md)
 
 ### Drafts
 

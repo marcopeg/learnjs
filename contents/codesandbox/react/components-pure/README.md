@@ -22,6 +22,7 @@ You can try things out directly on this sandbox:
 
 - {% codesandbox id="u9gb4", link="The Gihpy Component" %}{% endcodesandbox %}
 - {% codesandbox id="2lhml", link="Use the Spread Operator" %}{% endcodesandbox %}
+- {% codesandbox id="hsjlq", link="Multiple Components" %}{% endcodesandbox %}
 
 **Questions:**
 
