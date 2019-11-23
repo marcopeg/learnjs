@@ -8,6 +8,7 @@
     "disqus-legacy",
     "youtube-placeholder",
     "codepen-placeholder",
+    "codesandbox-placeholder",
     "redirect",
     "redirect-https",
     "analytics"
@@ -47,6 +48,12 @@
       "username": "Marco Pegoraro",
       "width": "100%",
       "height": "300px"
+    },
+    "codesandbox-placeholder": {
+      "width": "100%",
+      "height": "450px",
+      "view": "split",
+      "fontsize": "12"
     },
     "analytics": {
       "learnjs.today": [ "google", "UA-148196523-1" ]

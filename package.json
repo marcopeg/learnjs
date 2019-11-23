@@ -28,6 +28,7 @@
     "gitbook-plugin-analytics": "^0.2.1",
     "gitbook-plugin-code": "^0.1.0",
     "gitbook-plugin-codepen-placeholder": "^1.3.0",
+    "gitbook-plugin-codesandbox-placeholder": "^1.4.4",
     "gitbook-plugin-collapsible-menu": "^1.0.3",
     "gitbook-plugin-disqus-legacy": "^1.2.3",
     "gitbook-plugin-favicon": "0.0.2",
