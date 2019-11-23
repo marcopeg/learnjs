@@ -1,5 +1,5 @@
 # ReactJS » Render Arrays
-[LearnJS](../../../README.md) » [CodeSandbox.io](../../README.md) » [React](../README.md)
+[LearnJS](../../../README.md) » [CodeSandbox.io](../../README.md) » [React 101](../README.md)
 
 ## 👉 User Story:
 
