@@ -18,6 +18,8 @@ https://codepen.io/marcopeg/pen/jONzwqB?editors=1010
 
 > Don't run this unless you gave a very good effort to solve it yourself!
 
+{% youtube embed="RM0wMD2QJPI" %}{% endyoutube %}
+
 {% codepen id = "LYPmVGy", defaultTab = "js,result" %} {% endcodepen %}
 
 ---

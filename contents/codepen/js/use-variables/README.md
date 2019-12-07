@@ -19,6 +19,8 @@ https://codepen.io/marcopeg/pen/pozVmRX?editors=0010
 
 > Don't run this unless you gave a very good effort to solve it yourself!
 
+{% youtube embed="_mIi9Lraefw" %}{% endyoutube %}
+
 {% codepen id = "xxKjNdR", defaultTab = "js,result" %} {% endcodepen %}
 
 ---

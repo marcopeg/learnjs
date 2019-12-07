@@ -19,6 +19,7 @@ https://codepen.io/marcopeg/pen/YzKaQyb
 
 > Don't run this unless you gave a very good effort to solve it yourself!
 
+{% youtube embed="BQOlEJbAB1s" %}{% endyoutube %}
 {% codepen id="qBWxQLB", defaultTab="html,result" %}{% endcodepen %}
 
 ---
