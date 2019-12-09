@@ -38,6 +38,8 @@ https://codepen.io/marcopeg/pen/MWWXZbM
 
 > Don't run this unless you gave a very good effort to solve it yourself!
 
+{% youtube embed="64UIfK_-luw" %}{% endyoutube %}
+
 {% codepen id = "rNNKoma", defaultTab = "js,result" %} {% endcodepen %}
 
 ---
