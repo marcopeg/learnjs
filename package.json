@@ -5,6 +5,7 @@
   "private": true,
   "scripts": {
     "start": "npm run clean && npm run book:install && npm run book:serve",
+    "build": "npm run clean && npm run book:install && npm run book:build",
     "clean": "rm -rf build",
     "book:install": "node_modules/.bin/gitbook install",
     "book:serve": "node_modules/.bin/gitbook serve . build",
